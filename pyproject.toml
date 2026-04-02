@@ -1,0 +1,18 @@
+[project]
+name = "highland-cabbage-wholesale-price-prediction-model"
+version = "0.1.0"
+description = "highland cabbage wholesale price prediction model"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas", 
+    "numpy", 
+    "matplotlib", 
+    "openpyxl",
+    "scikit-learn", 
+    "joblib", 
+    "seaborn", 
+    "lxml",
+    "ipykernel",
+    "python-dotenv"
+]
